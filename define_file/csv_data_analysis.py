@@ -1,3 +1,4 @@
+#選択されたcsvファイルからデータを読み込み、演算を行いHyslN.pyに結果を返す制御を行っている。
 import os
 import pandas as pd
 from openpyxl import Workbook
