@@ -1,3 +1,4 @@
+#得られたデータから演算された結果をcsvファイルで出力する制御を行っている。
 import tkinter as tk
 from tkinter import filedialog as fl
 
