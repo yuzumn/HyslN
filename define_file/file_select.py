@@ -1,3 +1,4 @@
+#csvファイルをフォルダから選択する制御を行っている。
 import os
 from tkinter import filedialog as fl
 
