@@ -1,3 +1,4 @@
+#データを読み込んだcsvファイルを表示するウィンドを生成､制御している。
 import tkinter as tk
 
 sub = None
