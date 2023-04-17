@@ -4,6 +4,7 @@ Created on Wed May  4 13:03:48 2022
 
 @author: yuuri0422
 """
+#baseのウィンドを生成､グラフの作成などを行う。
 import os
 import tkinter as tk
 
